@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.ryan</groupId>
-		<artifactId>blog-parent</artifactId>
+		<artifactId>returnzero-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
@@ -12,8 +12,8 @@
 	<groupId>com.ryan</groupId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<artifactId>blog-service</artifactId>
-	<name>blog-service</name>
+	<artifactId>returnzero-service</artifactId>
+	<name>returnzero-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

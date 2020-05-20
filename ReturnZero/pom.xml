@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ryan</groupId>
-	<artifactId>blog-parent</artifactId>
+	<artifactId>returnzero-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>blog-parent</name>
 	<description>Demo project for Spring Boot</description>
@@ -26,9 +26,9 @@
 
 	<!--添加模块-->
 	<modules>
-		<module>blog-service</module>
-		<module>blog-base</module>
-		<module>blog-web</module>
+		<module>returnzero-service</module>
+		<module>returnzero-base</module>
+		<module>returnzero-web</module>
 	</modules>
 
 	<dependencies>

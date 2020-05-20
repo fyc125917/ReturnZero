@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.ryan</groupId>
-		<artifactId>blog-parent</artifactId>
+		<artifactId>returnzero-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
@@ -12,7 +12,7 @@
 	<groupId>com.ryan</groupId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<artifactId>blog-web</artifactId>
+	<artifactId>returnzero-web</artifactId>
 	<name>blog-web</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -24,12 +24,12 @@
 		<!--添加子项目-->
 		<dependency>
 			<groupId>com.ryan</groupId>
-			<artifactId>blog-base</artifactId>
+			<artifactId>returnzero-base</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.ryan</groupId>
-			<artifactId>blog-service</artifactId>
+			<artifactId>returnzero-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
