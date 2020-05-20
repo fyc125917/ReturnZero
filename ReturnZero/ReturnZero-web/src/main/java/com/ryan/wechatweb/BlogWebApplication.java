@@ -1,4 +1,4 @@
-package com.ryan.blogweb;
+package com.ryan.wechatweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

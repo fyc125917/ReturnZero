@@ -1,4 +1,4 @@
-package com.ryan.blogweb.controller;
+package com.ryan.wechatweb.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
