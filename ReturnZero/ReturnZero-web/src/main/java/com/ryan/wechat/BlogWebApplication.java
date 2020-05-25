@@ -1,4 +1,4 @@
-package com.ryan.wechatweb;
+package com.ryan.wechat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

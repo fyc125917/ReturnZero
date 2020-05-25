@@ -1,4 +1,4 @@
-package com.ryan.wechatweb.controller;
+package com.ryan.wechat.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

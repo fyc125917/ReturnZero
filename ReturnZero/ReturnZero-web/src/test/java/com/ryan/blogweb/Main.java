@@ -1,10 +1,5 @@
 package com.ryan.blogweb;
 
-import com.ryan.blogweb.controller.UserController;
-import org.springframework.beans.BeanUtils;
-
-import java.lang.reflect.Constructor;
-
 /**
  * @Classname Main
  * @Description TODO

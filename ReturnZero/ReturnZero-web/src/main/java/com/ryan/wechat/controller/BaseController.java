@@ -1,4 +1,4 @@
-package com.ryan.wechatweb.controller;
+package com.ryan.wechat.controller;
 
 /**
  * @Classname BaseController

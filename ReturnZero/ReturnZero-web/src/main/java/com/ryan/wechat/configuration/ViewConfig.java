@@ -1,4 +1,4 @@
-package com.ryan.wechatweb.configuration;
+package com.ryan.wechat.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
